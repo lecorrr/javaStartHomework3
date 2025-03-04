@@ -1,0 +1,1 @@
+One liter of fuel costs 1.2 $. Your car spends 8 liters of fuel per 100 km. You are going on a trip to a neighboring city. The distance to this city is 120 km. Calculate and display how much you need to pay for the fuel for the trip.
